@@ -9,7 +9,7 @@ const geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "VibeOS Desktop",
   description: "A retro VibeOS-inspired virtual desktop environment",
-    generator: 'v0.app'
+   
 }
 
 export default function RootLayout({
